@@ -73,10 +73,6 @@ MLP bisa diuji dengan mengganti parameter `--model` menjadi `models/trashnet_mlp
 - `reports/perbandingan_model.csv`: nilai asli evaluasi kedua model.
 - `models/*.keras`: model tersimpan setelah pelatihan.
 
-## Rencana UAS
-
-Data augmentation, peningkatan regularisasi, transfer learning (MobileNet/ResNet), tuning hyperparameter, studi ablasi, analisis Grad-CAM, dan demo Streamlit/Gradio. **Belum dikerjakan pada UTS.**
-
 ## Sumber dan atribusi
 
 - Dataset & repositori: Thung, G. / Yang, M. — https://github.com/garythung/trashnet
