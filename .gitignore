@@ -1,0 +1,16 @@
+# Local dataset: gunakan sumber upstream, jangan commit ZIP/data mentah.
+data/dataset-resized/
+data/*.zip
+*.zip
+__MACOSX/
+.DS_Store
+._*
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# Local training artifacts
+trashnet_clean/

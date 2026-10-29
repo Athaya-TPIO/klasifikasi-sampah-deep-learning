@@ -1,0 +1,11 @@
+dataset: TrashNet
+jumlah_gambar_asli: 2527
+jumlah_gambar_bersih: 2521
+duplikat_konflik_dihapus: 6
+gambar_train: 2016
+gambar_validation: 252
+gambar_test: 253
+img_size: (64, 64)
+batch_size: 32
+epoch_maksimal: 15
+random_seed: 42
