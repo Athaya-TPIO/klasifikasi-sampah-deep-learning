@@ -83,7 +83,3 @@ Data augmentation, peningkatan regularisasi, transfer learning (MobileNet/ResNet
 - Yang, M., & Thung, G. (2016). *Classification of Trash for Recyclability Status*. Stanford CS229 Project Report. https://cs229.stanford.edu/proj2016/report/ThungYang-ClassificationOfTrashForRecyclabilityStatus-report.pdf
 
 Periksa ketentuan lisensi untuk penggunaan dataset di luar tugas akademik. Dataset tidak didistribusikan dalam repositori ini.
-
-## Privasi & kontribusi kelompok
-
-Repositori ini disiapkan untuk **Kelompok 6**. Sebelum menjadikannya publik, periksa nama/NIM dan informasi anggota di laporan Word. Pembagian kontribusi final yang sebenarnya harus dicantumkan dalam laporan, sesuai ketentuan dosen. Pada laporan UTS, semua anggota wajib berkontribusi pada kode.
